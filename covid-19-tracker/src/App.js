@@ -6,7 +6,17 @@ function App() {
     <div className="app">
       <h1>Lets build a COVID 19 tracker!</h1>
 
+        {/* Header */}
+        {/* Title + Select input dropdown field*/}
 
+        {/* InfoBoxs */}
+        {/* InfoBoxs */}
+        {/* InfoBoxs */}
+
+        {/* Table */}
+        {/* Graph */}
+
+        {/* Map */}
     </div>
   );
 }
